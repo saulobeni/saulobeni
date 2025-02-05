@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 🌍 Sou de Fortaleza, Ceára, Brasil.<br>- 💼 Atualmente, trabalho como - Desenvolvedor Junior Back-End na Gestão ao Vivo.<br>- 🎓 Estou me formando no curso de Ciência da Computão e estou sempre buscando aprimorar minhas habilidades e conhecimentos no desenvolvimento de sistemas robustos e escaláveis.<br>- 📚 Atualmente, estou estudando arquitetura de microsserviços, estruturação de código e otimização de performance em APIs.<br>- 🛠️ Tenho uma grande paixão por solucionar problemas complexos através da programação e por contribuir para projetos de código aberto.<br>- ⚡ No meu tempo livre, gosto de aprender novas tecnologias e ler livros relacionados a boas práticas de programação.</p>
+<p align="left">- 🌍 Sou de Fortaleza, Ceára, Brasil.<br>- 💼 Atualmente, trabalho como - Desenvolvedor Junior Back-End na Gestão ao Vivo.<br>- 🎓 Estou me formando no curso de Ciência da Computação e estou sempre buscando aprimorar minhas habilidades e conhecimentos no desenvolvimento de sistemas robustos e escaláveis.<br>- 📚 Atualmente, estou estudando arquitetura de microsserviços, estruturação de código e otimização de performance em APIs.<br>- 🛠️ Tenho uma grande paixão por solucionar problemas complexos através da programação e por contribuir para projetos de código aberto.<br>- ⚡ No meu tempo livre, gosto de aprender novas tecnologias e ler livros relacionados a boas práticas de programação.</p>
 
 ###
 
